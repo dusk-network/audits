@@ -12,3 +12,5 @@ This GitHub repository hosts comprehensive audit reports for Dusk, ensuring tran
 | July 2024      | [Dusk BLS and hash reviews](/core-audits/2024-07_dusk-bls-and-hash_jp-aumasson.pdf)                                 | JP Aumasson     |
 | September 2024 | [Protocol Security Review](/core-audits/2024-09_protocol-security-review_oak-security.pdf)                          | OAK Security    |
 | September 2024 | [Economic Protocol Design](/core-audits/2024-09_economic-protocol-design_pol-finance.pdf)                           | POL Finance     |
+| September 2024 | [Rusk Consensus](/core-audits/2024-09_rusk-consensus_oak-security.pdf)                                              | OAK Security    |
+| September 2024 | [Rusk Node Library](/core-audits/2024-09_rusk-node-library_oak-security.pdf)                                        | OAK Security    |
