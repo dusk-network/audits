@@ -16,3 +16,5 @@ This GitHub repository hosts comprehensive audit reports for Dusk, ensuring tran
 | September 2024 | [Rusk Node Library](/core-audits/2024-09_rusk-node-library_oak-security.pdf)                                                 | OAK Security    |
 | September 2024 | [Phoenix Audit Report](/core-audits/2024-09_phoenix-audit-report_jules-de-smit.pdf)                                          | Jules de Smit   |
 | October 2024   | [Migration Smart Contract Security Assessment](/core-audits/2024-10_migration-smart-contract-security-assessment_zellic.pdf) | Zellic          |
+| April 2026     | [DUSK ERC20 Security Assessment](/token-audits/2026-04_dusk-erc20-security-assessment_mochavi.pdf)                           | Mochavi         |
+| April 2026     | [DUSK BEP20 Security Assessment](/token-audits/2026-04_dusk-bep20-security-assessment_mochavi.pdf)                           | Mochavi         |
